@@ -16,7 +16,7 @@ This book aims to solve a specific problem. The problem is that the majority of 
 
 4. Commercial software limits transparency in research because the algorithms behind the functions are not available for convenient inspection and modification. Staticians have long noted that Excel has flawed statistical procedures [@mccullough2008accuracy, @yalta2008accuracy], and introductory texts on statistics warn students not to use Excel when the results matter [eg. @keller2000applied]. With an open source program such as R, you can easily inspect and alter the algorithms behind every operation. R in particular has the added advantage of being one of the most accurate software programs for statistical analysis [@almiron2009, @keeling2007comparative].
 
-Using a command-line program such as R goes a long way towards solving these four problems. 
+Using a command-line program such as R goes a long way towards solving these 4 problems. 
 
 This book is complimentary to the major textbooks and handbooks of quantitative archaeology (Baxter 2003; 1994, Van Pool and Leonard 2011, Drennan 2009, Shennan 1997). These are excellent for relevant statistical theory, discussion, and examples, and this book does not replace them on your shelf. However, those books have three limitations that we will address in the following chapters.
 
